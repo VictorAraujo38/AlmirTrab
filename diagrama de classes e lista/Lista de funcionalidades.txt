@@ -1,0 +1,15 @@
+-Um usúario poderá tem n celulares.
+-Um Fúncionario realiza N vendas.
+-Uma venda contém N celulares.
+
+-Estamos basicamente montando um site que vende celulares e atribui essa venda a alguns funcionarios, que na teoria receberiam uma comissão por ter participado do "anúncio e propaganda".
+
+-Uma Movimentação acontecerá quando uma venda for feita. Ou seja, o status_venda for mudado de "E" para "F".
+
+
+
+
+
+
+
+ 
